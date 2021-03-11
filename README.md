@@ -24,7 +24,7 @@
     <img src="https://media.discordapp.net/attachments/440867661136527360/819590376988868618/ChatbotLogo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">UberEatsChatBot</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
